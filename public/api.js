@@ -3,9 +3,9 @@ const {liveData} = require("../public/database");
 
 const opts = {
     url: 'https://sunnyportal.com',
-    username: 'george.fouad@gmail.com',
-    password: 'qecuxeve',
-    plantOID: '5ba8e796-1b31-458b-b196-af182445b467'
+    username: '<EMAIL>',
+    password: '<PASSWORD>',
+    plantOID: '<PLANTID>'
 }
 
 const openBrowser = async creds => {
